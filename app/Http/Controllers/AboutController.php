@@ -43,7 +43,7 @@ class AboutController extends Controller
             ],
             [
                 'title' => 'Cari & Filter',
-                'desc' => 'Cari lewat kata kunci, lalu saring berdasarkan kategori atau status.',
+                'desc' => 'Memungkinkan pencarian barang hilang dan temuan lewat kata kunci (nama, lokasi, kategori), filter status, dan urutan waktu agar pemilik cepat mengajukan klaim.',
                 'icon' => 'search',
             ],
             [
